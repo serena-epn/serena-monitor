@@ -1,0 +1,111 @@
+{
+    "TITLE": "Serena",
+    "LOGIN":"Iniciar Sesión",
+    "REGISTER":"Registrarse",
+    "HELP":"Ayuda",
+    "FORGOT_PASSWORD":"Olvidó su Contraseña",
+    "MAIL":"Correo Electrónico",
+    "PASSWORD":"Contraseña",
+    "WRONG_MAIL":"Correo Incorrecto",
+    "RECOVER_PASSWORD":"Recuperar mi contraseña",
+    "RECOVER_PASSWORD_SCREEN":"Recuperar Contraseña",
+    "LOGIN_SCREEN":"Inicio de Sesión",
+    "HELP_SCREEN":"Ayuda",
+    "BACK":"Volver",
+    "MAP_SCREEN":"Monitorización",
+    "MAP_TAB":"Monitor",
+    "CONFIG_TAB":"Configuración",
+    "DEVICE_TAB":"Dispositivo",
+    "ALERTS_TAB":"Alertas",
+    "TUTORIAL_TAB":"Ayuda",
+
+    "MAP_SCREEN_HEADER":"Monitor",
+
+    
+    "DEVICE_STATUS_HEADER":"Estado",
+    "DEVICE_STATUS_TITLE":"Estado",
+    "DEVICE_STATUS_DESCRIPTION":"Muestra el estado del dispositivo de localización",
+
+    "DEVICE_MAPS_HEADER":"Mapas",
+    "DEVICE_MAPS_TITLE":"Mapas",
+    "DEVICE_MAPS_DESCRIPTION":"Permite la configuración de cómo se visualizan los mapas",
+
+    "DEVICE_ZONES_HEADER":"Zona Segura",
+    "DEVICE_ZONES_TITLE":"Zona Segura",
+    "DEVICE_ZONES_DESCRIPTION":"Permite configurar la zona segura de tránsito del paciente",
+
+    "DEVICE_CONFIG_HEADER":"Configuración",
+    "DEVICE_CONFIG_TITLE":"Configuración",
+    "DEVICE_CONFIG_DESCRIPTION":"Permite la configuración general del dispositivo",
+
+
+    "CONFIG_CAREGIVER_HEADER":"Configuración de usuario",
+    "CONFIG_CAREGIVER_TITLE":"Configuración de usuario",
+    "CONFIG_CAREGIVER_DESCRIPTION":"Permite configurar los datos del cuidador",
+
+    "CONFIG_PATIENT_HEADER":"Configuración del paciente",
+    "CONFIG_PATIENT_TITLE":"Configuración del paciente",
+    "CONFIG_PATIENT_DESCRIPTION":"Permite configurar la información del afectado",
+
+    "CONFIG_LOGOUT_TITLE":"Cerrar Sesión",
+    "CONFIG_LOGOUT_DESCRIPTION":"Cierra la sesión y vuelve a la pantalla de inicio",
+
+    "ALERTS_LOCATION_HEADER":"Alertas de ubicación",
+    "ALERTS_LOCATION_TITLE":"Alertas de ubicación",
+    "ALERTS_LOCATION_DESCRIPTION":"Historial de alertas de emergencia por salida de zona segura",
+
+    
+    "ALERTS_EMERGENCY_HEADER":"Alertas de emergencia",
+    "ALERTS_EMERGENCY_TITLE":"Alertas de emergencia",
+    "ALERTS_EMERGENCY_DESCRIPTION":"Historial de alertas de emergencia por desorientación del paciente",
+
+    "ALERTS_BATTERY_HEADER":"Alertas de batería",
+    "ALERTS_BATTERY_TITLE":"Alertas de batería",
+    "ALERTS_BATTERY_DESCRIPTION":"Alertas de indicación de batería baja",
+
+    "ALERTS_MISC_HEADER":"Alertas adicionales",
+    "ALERTS_MISC_TITLE":"Alertas adicionales",
+    "ALERTS_MISC_DESCRIPTION":"Alertas adicionales enviadas por el dispositivo",
+    
+    "ALERTS_HISTORY_HEADER":"Historial de alertas",
+    "ALERTS_HISTORY_TITLE":"Historial de alertas",
+    "ALERTS_HISTORY_DESCRIPTION":"Todas las alertas generadas",
+
+    "ALERTS_DETAILS_HEADER":"Detalle de Alerta",
+    "ALERTS_DETAILS_TITLE":"Detalle de Alerta",
+    "ALERTS_DETAILS_DESCRIPTION":"Detalle registrados de Alerta",
+    
+
+
+
+
+
+
+
+
+    "HELP_SERENA_HEADER":"Ayuda del sistema",
+    "HELP_SERENA_TITLE":"Ayuda del sistema",
+    "HELP_SERENA_DESCRIPTION":"Aquí puede encontrar ayuda acerca del sistema",
+    
+    "HELP_LOGIN_HEADER":"Ayuda de inicio de sesión",
+    "HELP_LOGIN_TITLE":"Ayuda de inicio de sesión",
+    "HELP_LOGIN_DESCRIPTION":"Aquí puede encontrar ayuda acerca de como iniciar sesión y registrar peticiones",
+    
+    "HELP_MONITOR_HEADER":"Ayuda monitor",
+    "HELP_MONITOR_TITLE":"Ayuda acerca del monitor de ubicación",
+    "HELP_MONITOR_DESCRIPTION":"Ayuda de como funciona el monitor",
+    
+    "HELP_ZONE_HEADER":"Ayuda zona segura",
+    "HELP_ZONE_TITLE":"Ayuda zona segura",
+    "HELP_ZONE_DESCRIPTION":"Información de como configurar la zona segura",
+    
+    "ALERTS_CONFIG_HEADER":"Configuración de alertas",
+    "ALERTS_CONFIG_TITLE":"Configuración de alertas",
+    "ALERTS_CONFIG_DESCRIPTION":"Configuración de entrega de notificacicnes de alertas",
+
+    "CONFIG_LOGO_HEADER_TEXT":"Aquí encontrará los accesos directos a la configuración de su perfil y el de su paciente, además de poder actualizar sus datos o cambiar su contraseña.",
+    "DEVICE_LOGO_HEADER_TEXT":"En la presente sección podrá acceder a la configuración de del dispositivo de monitoreo.",
+    "ALERTS_LOGO_HEADER_TEXT":"Esta sección presenta el historial de alertas generado por el dispositivo de monitoreo, tanto por tipo de alerta, como el historial completo.",
+    "HELP_LOGO_HEADER_TEXT":"Aquí encontrará información del uso de la aplicación y cómo utilizar sus distintas funciones."
+    
+}

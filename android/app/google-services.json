@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "751857828657",
+    "project_id": "serenaepn",
+    "storage_bucket": "serenaepn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751857828657:android:0dc145eba78b517e3ca610",
+        "android_client_info": {
+          "package_name": "com.serenarn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARYc1c6syhiyL1Cq_RQ-CSvlnmPepGiiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
